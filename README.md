@@ -8,5 +8,5 @@
 - 💬 Ask me about anything data related
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akishabhujel/) . [Kaggle](https://www.kaggle.com/akisavujel) . [Blog](https://hashnode.com/@akisavujel) . [Github](https://github.com/akisavujel)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i actually enjoy it
+- ⚡ Fun fact: i actually enjoy what i do
 
